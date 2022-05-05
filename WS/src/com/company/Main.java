@@ -16,8 +16,7 @@ public class Main {
 
 
         Firstform Frame1 = new Firstform();
-        Secondform Frame2=new Secondform();
-        Thirdform Frame3=new Thirdform();
+       
 
 
 
